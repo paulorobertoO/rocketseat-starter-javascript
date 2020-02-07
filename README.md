@@ -1,6 +1,8 @@
-# Exercícios: Módulo 01
+# Curso JavaScript - Rocketseat :rocket:
 
 Conheça o curso: https://rocketseat.com.br/starter
+
+## Exercícios: Módulo 01
 
 ### Índice
 - [X] Exercício 01
