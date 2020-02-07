@@ -6,3 +6,7 @@
 - [ ] Exercício 03
 - [ ] Exercício 04
 - [ ] Exercício 05
+
+### Lista de Exercícios
+###### Exercício 01
+Crie uma função que dado o objeto a seguir:
