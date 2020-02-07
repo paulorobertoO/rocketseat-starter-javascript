@@ -1,5 +1,7 @@
 # Exercícios: Módulo 01
 
+Conheça o curso: https://rocketseat.com.br/starter
+
 ### Índice
 - [X] Exercício 01
 - [ ] Exercício 02
