@@ -12,12 +12,11 @@
 Crie uma função que dado o objeto a seguir:
 
 ```
- var endereco = {
+var endereco = {
     rua: "Rua dos Pinheiros",
     numero: 1293,
     bairro: "Centro",
     cidade: "São Paulo",
     uf: "SP"
  };
-
 ```
