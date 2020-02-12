@@ -7,7 +7,7 @@ Conheça o curso: https://rocketseat.com.br/starter
 ### Índice
 - [X] Exercício 01
 - [X] Exercício 02
-- [ ] Exercício 03
+- [X] Exercício 03
 - [ ] Exercício 04
 - [ ] Exercício 05
 
