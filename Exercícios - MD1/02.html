@@ -6,7 +6,11 @@
 
     <body>
 
+        
+
         <script>
+
+            alert('Pressione F12 e clique na opcao console')
 
             var x = 32, y = 321;
 
@@ -14,10 +18,15 @@
 
                 for (var i = num1; i <= num2; i++) {
 
-                    console.log(i);
-
+                    if (i % 2 == 0) {
+                        console.log(i);
+                    }
                 }
             }
+            
+            console.log('Exibindo todos os numeros pares entre '+x+' e '+y+'. \n');
+
+            pares(x,y);
 
         </script>
     </body>
