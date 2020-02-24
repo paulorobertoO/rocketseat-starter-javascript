@@ -1,4 +1,4 @@
-/*Objects JS*/
+/*Exercício 01*/
 var endereco = {
     rua: "Rua dos Pinheiros",
     numero: 1293,
@@ -7,13 +7,6 @@ var endereco = {
     uf: "SP"
 };
 
-var x = 32, y = 321;
-
-var skills = ["Javascript", "ReactJS", "React Native"];
-
-var anosEstudo = 7;
-
-/*Functions JS*/
 function retornaEnd(endereco) {
 
     var texto = "O usuário mora em "
@@ -30,6 +23,9 @@ function retornaEnd(endereco) {
     return texto;
 }
 
+/*Exercício 02*/
+var x = 32, y = 321;
+
 function pares(num1, num2) {
 
     for (var i = num1; i <= num2; i++) {
@@ -41,10 +37,16 @@ function pares(num1, num2) {
     return '';
 }
 
+/*Exercício 03*/
+var skills = ["Javascript", "ReactJS", "React Native"];
+
 function temHabilidade(skills) {
     Boolean = skills.indexOf("Javascript") !== -1 ? true : false;
     return Boolean;
 }
+
+/*Exercício 04*/
+var anosEstudo = 7;
 
 function experiencia(anos) {
 
@@ -66,3 +68,21 @@ function experiencia(anos) {
     }
 }
 
+
+/*Exercício 05*/
+var usuarios = [
+    {
+        nome: "Diego",
+        habilidades: ["Javascript", "ReactJS", "Redux"]
+    },
+    {
+        nome: "Gabriel",
+        habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
+    }
+];
+
+function imprimeFrase(usuarios) {
+    for (user of usuarios) {
+        document.writeln("O "+ user.nome + " possui as habilidades: " + user.habilidades.join(", ")+" <br>");
+    }
+}
