@@ -2,7 +2,7 @@
 
 Conheça o curso: https://rocketseat.com.br/starter
 
-## Exercícios: Módulo 01
+## Exercícios: Introdução JavaScript
 
 ### Índice
 - [X] Exercício 01
