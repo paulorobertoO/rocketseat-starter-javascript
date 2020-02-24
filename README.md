@@ -9,7 +9,7 @@ Conheça o curso: https://rocketseat.com.br/starter
 - [X] Exercício 02
 - [X] Exercício 03
 - [x] Exercício 04
-- [ ] Exercício 05
+- [X] Exercício 05
 
 ### Lista de Exercícios
 ###### Exercício 01
